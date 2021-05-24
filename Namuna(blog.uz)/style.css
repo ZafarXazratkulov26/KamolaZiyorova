@@ -1,0 +1,27 @@
+@charset "utf-8";
+img.r{
+	border-style:solid;
+} 
+img{
+	margin:0px;
+}
+a{
+	text-decoration: none;
+	text-transform: uppercase;
+	color:purple;
+	font-weight: bold;
+}
+a:hover{
+color:red;
+border:1px solid gold;
+background: gold;
+border-radius: 5px;
+/*padding:1px;*/
+margin:0px;
+}
+p{color:blue;}
+body{background-color:silver;}
+h1{color: #E23131;} 
+table{
+	margin:0px;
+}
